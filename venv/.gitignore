@@ -1,0 +1,16 @@
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+
+*.json
+!package.json
+
+storage/
+tests_temp_storage/
+
+.vscode/
+.idea/
+
+metals-*.json

@@ -1,0 +1,11 @@
+{
+    "date": "2024-09-03",
+    "feature": "gold",
+    "data": {
+        "category": "metal",
+        "name": "Gold",
+        "source": "Yahoo Finance",
+        "value": 230.29,
+        "ticker_code": "GLD"
+    }
+}
